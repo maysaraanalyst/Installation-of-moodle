@@ -12,13 +12,13 @@ Download the script:
 
 Bash
 
-wget https://example.com/moodle_install.sh 
+wget https://github.com/maysaraanalyst/Installation-of-moodle-/blob/main/install.moodle.almalinux.sh
 
 Make the script executable: 
 
 Bash
 
-chmod +x moodle_install.sh 
+chmod +x Install.moodle.almalinux.sh 
 
 Run the script: 
 
