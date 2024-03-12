@@ -1,1 +1,1 @@
-this I guide to install moodle platform 
+this is guide to install moodle platform 
