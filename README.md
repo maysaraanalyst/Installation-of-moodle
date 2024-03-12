@@ -24,7 +24,7 @@ Run the script:
 
 Bash
 
-./moodle_install.sh 
+./install.moodle.almalinux.sh 
 
 Configuration:
 
